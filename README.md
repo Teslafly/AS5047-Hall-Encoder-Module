@@ -10,6 +10,9 @@ this project is made with kicad nightly 5.99. if it doesn't open with the latest
 
 !!readme not finished!!
 
+pcb manufacture:
+jlcpcbb did a good job and was able to route out the pcb's without mousebites or such.
+
 bom:
 digikey/mouser:
 
@@ -27,13 +30,16 @@ digikey /mouser connectors
 
 
 6 pin cable:
+https://www.ebay.com/itm/184222360204?var=691936123738
 
 
-if you hate crimpint, there are prebuilt pigtails you can use to make short runs or cut up to make your own cable.
+if you hate crimping, there are prebuilt pigtails you can use to make short runs or cut up to make your own cable.
 prebuilt pigtail source:
+https://www.ebay.com/itm/114555495221?hash=item1aac0a2335:g:jwIAAOSwGsVaQia0
+https://www.aliexpress.com/item/4000699606111.html
 
 
-
+(need jst ph source)
 
 # mounting:
  I recommend using nylon m3 screws. like ((xxlinkxxx)). steel screws may disrupt the magnetic feild and affect sensing. they also are non conductive and non marring. while the pcb has been designed to route signals away from under both sides of the screw holes, ther copper ground plane is still present under the screws. screws can be mounted from either side of the board. if mounting directly to metal, it is recommended to put a nylon washer or other piece of plastic between the metal and pcb.
