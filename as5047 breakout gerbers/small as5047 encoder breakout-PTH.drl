@@ -1,0 +1,26 @@
+M48
+; DRILL file {KiCad (5.99.0-9885-g7a8abcadd2)} date 05/15/21 19:58:39
+; FORMAT={-:-/ absolute / inch / decimal}
+; #@! TF.CreationDate,2021-05-15T19:58:39-05:00
+; #@! TF.GenerationSoftware,Kicad,Pcbnew,(5.99.0-9885-g7a8abcadd2)
+; #@! TF.FileFunction,Plated,1,2,PTH
+FMAT,2
+INCH
+; #@! TA.AperFunction,ViaDrill
+T1C0.0157
+%
+G90
+G05
+T1
+; via hole
+X5.2854Y-3.3957
+X5.3986Y-3.2825
+X5.3986Y-3.3661
+X5.4331Y-3.125
+X5.4577Y-3.2333
+X5.4626Y-3.2972
+X5.4626Y-3.3661
+X5.5413Y-3.4941
+X5.625Y-3.3169
+T0
+M30
