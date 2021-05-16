@@ -1,7 +1,8 @@
 # AS5047-Hall-Encoder-Module
 Mini breakout Board for the AS5047 Hall Encoder chip. Works with Vesc
 
-(pcb/schematic pictures)
+![Encoder PCB examples](pictures\encoder_pcbs.jpg)
+![schematic](pictures\schematic.png)
 
 this project is made with kicad nightly 5.99. if it doesn't open with the latest kicad version, it will with `Version: (5.99.0-9885-g7a8abcadd2), release build`
 
@@ -21,12 +22,13 @@ lcsc:
 
 conneccctors:
 make your own cable:
-(cable pic)
+![cable examples](pictures\cable_options.jpg)
+
 recommended crimpers:
 
-lccsc connectors
+lcsc connectors:
 
-digikey /mouser connectors
+digikey/mouser connectors:
 
 
 6 pin cable:
